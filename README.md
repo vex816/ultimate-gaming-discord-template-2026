@@ -3,3 +3,5 @@ Premium gaming/roleplay server architecture. Clean categories, locked rules, tic
 
 ⚙️ Full bot setup (Dyno/Tickets): £10 via PayPal/Revolut.
 📥 DM Discord: 7x2q
+
+👉 Portfolio: https://xenon.bot/templates/t8NJHmF3BzvK
